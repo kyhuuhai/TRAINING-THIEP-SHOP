@@ -6,6 +6,7 @@ class CreateImages < ActiveRecord::Migration[6.1]
       t.string :imageble_type
 
       t.timestamps
+
     end
   end
 end

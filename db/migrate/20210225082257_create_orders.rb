@@ -6,6 +6,7 @@ class CreateOrders < ActiveRecord::Migration[6.1]
       t.integer :total
 
       t.timestamps
+
     end
   end
 end

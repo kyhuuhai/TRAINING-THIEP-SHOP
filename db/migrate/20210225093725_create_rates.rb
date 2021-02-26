@@ -6,6 +6,7 @@ class CreateRates < ActiveRecord::Migration[6.1]
       t.integer :star
 
       t.timestamps
+
     end
   end
 end
