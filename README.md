@@ -1,1 +1,3 @@
 # TRAINING-THIEP-SHOP
+Ruby 2.7
+Rails 6.0
