@@ -4,6 +4,7 @@ class CreateCategories < ActiveRecord::Migration[6.1]
       t.string :name
 
       t.timestamps
+
     end
   end
 end

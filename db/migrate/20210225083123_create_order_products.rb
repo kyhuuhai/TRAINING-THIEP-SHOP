@@ -5,6 +5,7 @@ class CreateOrderProducts < ActiveRecord::Migration[6.1]
       t.integer :product_id
 
       t.timestamps
+
     end
   end
 end

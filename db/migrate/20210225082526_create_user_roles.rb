@@ -5,6 +5,7 @@ class CreateUserRoles < ActiveRecord::Migration[6.1]
       t.integer :role_id
 
       t.timestamps
+
     end
   end
 end

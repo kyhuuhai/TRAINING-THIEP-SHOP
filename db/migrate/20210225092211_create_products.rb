@@ -8,6 +8,7 @@ class CreateProducts < ActiveRecord::Migration[6.1]
       t.text :description
 
       t.timestamps
+
     end
   end
 end

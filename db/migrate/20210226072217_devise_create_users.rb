@@ -13,6 +13,7 @@ class DeviseCreateUsers < ActiveRecord::Migration[6.1]
       t.string :adress
       t.datetime :remember_created_at
       t.timestamps null: false
+
     end
 
     add_index :users, :email,                unique: true
